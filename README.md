@@ -1,2 +1,2 @@
-#Company site being overhauled and developed in bootstrap.
+Company site being overhauled and developed in bootstrap.
 
