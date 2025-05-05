@@ -1,3 +1,13 @@
 @import "..node_modules/bootstrap/scss/bootstrap";
+@import "variables";
+@import "mixins";
+/* Declaring custom styles*/
 
-/* Add your custom styles here */
+$heading-font: 'Arial, sans-serif';
+$heading-color: red;
+$heading-font-size: 2rem;
+
+/*Nesting Scss Rules & mixin's*/
+ .container h1 {
+    color: $heading-color;
+ }
